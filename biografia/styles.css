@@ -1,0 +1,67 @@
+body {
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+
+main {
+    width: 95%;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+
+.sangria {
+    margin-left: 50px;
+}
+.botones {
+    margin-top: 30px;
+}
+
+button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+ol {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    font-size: 24px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+ul li {
+    margin-bottom: 0px;
+}
